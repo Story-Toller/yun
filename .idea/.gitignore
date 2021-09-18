@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../yun\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../:\Graduation Design\design by yun\yun\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
