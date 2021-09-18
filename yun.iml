@@ -14,7 +14,7 @@
       <configuration>
         <setting name="validation-enabled" value="true" />
         <datasource-mapping>
-          <factory-entry name="yun" />
+          <factory-entry name="yun" value="d735e73c-40bd-4d81-aa37-18be8d4e42e4" />
         </datasource-mapping>
         <naming-strategy-map />
       </configuration>
@@ -57,7 +57,6 @@
     <orderEntry type="library" name="Maven: org.mybatis.spring.boot:mybatis-spring-boot-starter:2.1.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:2.5.3" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.5.3" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.5.3" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-logging:2.5.3" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.2.4" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:1.2.4" level="project" />
@@ -72,6 +71,8 @@
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.13.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:2.2" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:druid:1.2.6" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:druid-spring-boot-starter:1.2.6" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.5.3" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-jdbc:2.5.3" level="project" />
     <orderEntry type="library" name="Maven: com.zaxxer:HikariCP:4.0.3" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-jdbc:5.3.9" level="project" />
